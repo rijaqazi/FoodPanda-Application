@@ -1,16 +1,35 @@
-# shopping_cart
+# FoodPanda Flutter Application
 
-A new Flutter project.
+![FoodPanda Logo](path/to/logo.png)
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+The **FoodPanda Flutter Application** is a mobile app developed using Flutter, aiming to replicate the core functionalities of the popular food delivery service, FoodPanda. This application allows users to browse through various restaurants, view menus, place orders, and track deliveries in real-time.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Restaurant Listings**: Browse a comprehensive list of restaurants.
+- **Menu Exploration**: View detailed menus with item descriptions and prices.
+- **Order Placement**: Seamlessly add items to the cart and place orders.
+- **Real-Time Tracking**: Track the status of your order from preparation to delivery.
+- **User Authentication**: Secure sign-up and login functionalities.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![Home Screen](path/to/home_screen.png)
+*Home Screen showcasing featured restaurants.*
+
+![Menu Screen](path/to/menu_screen.png)
+*Menu Screen displaying available dishes.*
+
+![Order Tracking](path/to/order_tracking.png)
+*Real-time order tracking interface.*
+
+## Installation
+
+To run this application locally:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/rijaqazi/FoodPanda-Application.git
+   cd FoodPanda-Application

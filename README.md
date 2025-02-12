@@ -70,6 +70,7 @@ This project uses the following Flutter packages:
 - Firebase Authentication - User login and authentication
 - Cloud Firestore - Database storage
 - Provider / Riverpod - State management
+  
 📌 For a complete list of dependencies, check the pubspec.yaml file.
 
 ---
@@ -90,6 +91,7 @@ Contributions are welcome! Follow these steps:
 For queries or collaboration:
 
 📧 Email: rijaqazi10@gmail.com
+
 🔗 GitHub: rijaqazi
 
 ---

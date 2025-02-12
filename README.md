@@ -1,7 +1,5 @@
 # FoodPanda Flutter Application
 
-![pandalogo](https://github.com/user-attachments/assets/92b1791e-0825-4a21-b180-3f82683ad6ae)
-
 ---
 
 ## *📌 Overview*
@@ -63,17 +61,20 @@ To run this application locally, follow these steps:
 
    ⚠ Prerequisites: Ensure you have Flutter and Dart installed. Refer to the Flutter installation guide for setup instructions.
 
+---
 
-📌 ***Dependencies***
+## 📌 *Dependencies*
 This project uses the following Flutter packages:
 
-Flutter & Material Components - UI framework
-Firebase Authentication - User login and authentication
-Cloud Firestore - Database storage
-Provider / Riverpod - State management
+- Flutter & Material Components - UI framework
+- Firebase Authentication - User login and authentication
+- Cloud Firestore - Database storage
+- Provider / Riverpod - State management
 📌 For a complete list of dependencies, check the pubspec.yaml file.
 
-🤝 ***Contributing***
+---
+
+## 🤝 *Contributing*
 Contributions are welcome! Follow these steps:
 
 1. Fork the repository
@@ -83,10 +84,14 @@ Contributions are welcome! Follow these steps:
    
 💡 *Please ensure your code follows best practices and includes relevant documentation.*
 
-📞 ***Contact***
+---
+
+## 📞 *Contact*
 For queries or collaboration:
 
 📧 Email: rijaqazi10@gmail.com
 🔗 GitHub: rijaqazi
+
+---
 
 ⭐ If you found this project helpful, consider giving it a star on GitHub!

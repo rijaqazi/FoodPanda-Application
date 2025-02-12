@@ -16,7 +16,7 @@ The **FoodPanda Flutter Application** is a mobile app developed using Flutter, a
 
 ## Screenshots
 
-![Home Screen](path/to/home_screen.png)
+![Home Screen](!(image.png))
 *Home Screen showcasing featured restaurants.*
 
 ![Menu Screen](path/to/menu_screen.png)
